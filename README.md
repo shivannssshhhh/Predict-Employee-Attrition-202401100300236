@@ -181,10 +181,8 @@ Confusion Matrix:
  [[250   5]
  [ 35   4]]
 
-[Screenshot (42)](https://github.com/user-attachments/assets/44747bd5-a598-46d4-ab14-9796bc46ccf9)
 
 
 
 
-
-
+![Screenshot (42)](https://github.com/user-attachments/assets/816a91d6-4be9-4c68-8651-f4e8bfae92c9)
