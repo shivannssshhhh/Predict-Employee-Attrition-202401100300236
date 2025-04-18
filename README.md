@@ -32,7 +32,7 @@ The objective is to use historical employee data to predict attrition and provid
 
 ---
 
-## 🚀 Technologies Used![Screenshot (42)](https://github.com/user-attachments/assets/44747bd5-a598-46d4-ab14-9796bc46ccf9)
+## 🚀 Technologies Used!
 
 
 - Python 3
@@ -180,6 +180,9 @@ weighted avg       0.82      0.86      0.83       294
 Confusion Matrix:
  [[250   5]
  [ 35   4]]
+
+[Screenshot (42)](https://github.com/user-attachments/assets/44747bd5-a598-46d4-ab14-9796bc46ccf9)
+
 
 
 
