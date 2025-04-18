@@ -32,7 +32,8 @@ The objective is to use historical employee data to predict attrition and provid
 
 ---
 
-## 🚀 Technologies Used
+## 🚀 Technologies Used![Screenshot (42)](https://github.com/user-attachments/assets/44747bd5-a598-46d4-ab14-9796bc46ccf9)
+
 
 - Python 3
 - Google Colab / Jupyter Notebook
